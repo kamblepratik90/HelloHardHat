@@ -13,3 +13,6 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+
+Create acc here for rpc url for our api key
+https://rpc.maticvigil.com/ 
