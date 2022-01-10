@@ -31,7 +31,7 @@ module.exports = {
     },
     matic: {
       url: "https://rpc-mumbai.maticvigil.com",
-      accounts: ["ce25ea05a902ba501d04da1594f587bf8ec7a7154a38ae5d04d0ff5806eefe3f"]
+      accounts: pk
     }
   },
   solidity: {
